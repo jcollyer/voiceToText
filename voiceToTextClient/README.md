@@ -10,7 +10,7 @@ npm i
 npm run dev
 ```
 
-### Start Electron App
+### Start Electron App (in a seperate terminal)
 ```
 npm run start-electron
 ```
