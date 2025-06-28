@@ -1,3 +1,23 @@
+## Get started
+
+### Install dependencies
+```
+npm i
+```
+
+### Start React server
+```
+npm run dev
+```
+
+### Start Electron App
+```
+npm run start-electron
+```
+
+
+--------------------------------
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
