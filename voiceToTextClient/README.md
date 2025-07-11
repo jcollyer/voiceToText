@@ -12,7 +12,7 @@ npm run dev
 
 ### Start Electron App (in a seperate terminal)
 ```
-npm run start-electron
+npm run electron
 ```
 
 
